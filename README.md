@@ -1,3 +1,6 @@
+# Preview
+![Design and Development](https://github.com/JunaidShamnad/React-Crypto-Tracker/blob/main/React-Crypto-Tracker.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
