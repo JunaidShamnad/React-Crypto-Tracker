@@ -6,7 +6,7 @@
   margin: 0;
   font-family: 'Montserrat', sans-serif;
   background: rgb(0,0,0);
-  background: linear-gradient(117deg, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 20%, rgba(0,0,0,1) 41%, rgba(0,0,0,1) 59%, rgba(13,13,14,1) 85%);
+/*   background: linear-gradient(117deg, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 20%, rgba(0,0,0,1) 41%, rgba(0,0,0,1) 59%, rgba(13,13,14,1) 85%); */
   color: #fff;
 }
 
